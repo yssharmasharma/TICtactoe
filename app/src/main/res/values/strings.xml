@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TIC tac toe</string>
+    <string name="next">next</string>
+    <string name="go_to_next_page">go to next page</string>
+    <string name="reset">reset</string>
+    <string name="todo">TODO</string>
+    <string name="play_button">play_button</string>
+    <string name="lets_play">LETS PLAY</string>
+    <string name="start">start</string>
+</resources>
